@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{73643114-FB5E-4D80-8890-9ABB9318F8AB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Software1-Knowledge-Check-2/SingleFamily.cs">
+    <Files>
+      <File FileName="Software1-Knowledge-Check-2/Program.cs" Line="8" Column="6" />
+      <File FileName="Software1-Knowledge-Check-2/Home.cs" Line="8" Column="5" />
+      <File FileName="Software1-Knowledge-Check-2/SingleFamily.cs" Line="4" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Software1-Knowledge-Check-2" expanded="True">
+            <Node name="Software1-Knowledge-Check-2" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Software1-Knowledge-Check-2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
