@@ -1,0 +1,15 @@
+/Users/saraballew/Projects/Software1-Knowledge-Check-2/Software1-Knowledge-Check-2/bin/Debug/net7.0/Software1-Knowledge-Check-2
+/Users/saraballew/Projects/Software1-Knowledge-Check-2/Software1-Knowledge-Check-2/bin/Debug/net7.0/Software1-Knowledge-Check-2.deps.json
+/Users/saraballew/Projects/Software1-Knowledge-Check-2/Software1-Knowledge-Check-2/bin/Debug/net7.0/Software1-Knowledge-Check-2.runtimeconfig.json
+/Users/saraballew/Projects/Software1-Knowledge-Check-2/Software1-Knowledge-Check-2/bin/Debug/net7.0/Software1-Knowledge-Check-2.dll
+/Users/saraballew/Projects/Software1-Knowledge-Check-2/Software1-Knowledge-Check-2/bin/Debug/net7.0/Software1-Knowledge-Check-2.pdb
+/Users/saraballew/Projects/Software1-Knowledge-Check-2/Software1-Knowledge-Check-2/obj/Debug/net7.0/Software1-Knowledge-Check-2.csproj.AssemblyReference.cache
+/Users/saraballew/Projects/Software1-Knowledge-Check-2/Software1-Knowledge-Check-2/obj/Debug/net7.0/Software1-Knowledge-Check-2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/saraballew/Projects/Software1-Knowledge-Check-2/Software1-Knowledge-Check-2/obj/Debug/net7.0/Software1-Knowledge-Check-2.AssemblyInfoInputs.cache
+/Users/saraballew/Projects/Software1-Knowledge-Check-2/Software1-Knowledge-Check-2/obj/Debug/net7.0/Software1-Knowledge-Check-2.AssemblyInfo.cs
+/Users/saraballew/Projects/Software1-Knowledge-Check-2/Software1-Knowledge-Check-2/obj/Debug/net7.0/Software1-Knowledge-Check-2.csproj.CoreCompileInputs.cache
+/Users/saraballew/Projects/Software1-Knowledge-Check-2/Software1-Knowledge-Check-2/obj/Debug/net7.0/Software1-Knowledge-Check-2.dll
+/Users/saraballew/Projects/Software1-Knowledge-Check-2/Software1-Knowledge-Check-2/obj/Debug/net7.0/refint/Software1-Knowledge-Check-2.dll
+/Users/saraballew/Projects/Software1-Knowledge-Check-2/Software1-Knowledge-Check-2/obj/Debug/net7.0/Software1-Knowledge-Check-2.pdb
+/Users/saraballew/Projects/Software1-Knowledge-Check-2/Software1-Knowledge-Check-2/obj/Debug/net7.0/Software1-Knowledge-Check-2.genruntimeconfig.cache
+/Users/saraballew/Projects/Software1-Knowledge-Check-2/Software1-Knowledge-Check-2/obj/Debug/net7.0/ref/Software1-Knowledge-Check-2.dll
